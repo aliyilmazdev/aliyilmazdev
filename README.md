@@ -1,5 +1,5 @@
 <h1>
-Ali YILMAZ 📱💻
+Ali YILMAZ 💻
 </h1>
 
 - 💻 I’m currently working at Uskudar University as Mobile Application Developer
