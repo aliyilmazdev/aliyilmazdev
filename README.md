@@ -2,7 +2,7 @@
 Ali YILMAZ 💻
 </h1>
 
-- 💻 Senior React Native Developer
+- 💻 Software Developer
 - 📫 How to reach me: ali.yilmaz38@outlook.com
 - 📍 Istanbul/Turkey
 
