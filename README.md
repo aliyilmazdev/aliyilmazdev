@@ -2,11 +2,11 @@
 Ali YILMAZ 💻
 </h1>
 
-- 💻 Software Developer
+- 💻 Computer Engineer
 - 📫 How to reach me: ali.yilmaz38@outlook.com
 - 📍 Istanbul/Turkey
 
-<h2> Skill</h2>
+<h2> Skills</h2>
 <a href= https://github.com/aliyilmazdev?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/aliyilmazdev?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/aliyilmazdev?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
